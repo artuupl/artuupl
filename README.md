@@ -7,7 +7,8 @@ I'm Artur Kociszewski, **teenager** and **amateur developer**.
 - ❤️ I'm in love with Open Source.
 
 
-![Artuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=artuupl&show_icons=true&theme=dracula)
+![Artuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=artuupl&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dracula)
+![Artuu's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=artuupl&layout=compact&langs_count=6&hide_border=true&theme=dracula)
 
 <!---
 - 👋 Hi, I’m @artuupl
