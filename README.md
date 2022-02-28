@@ -1,4 +1,4 @@
-<a href="https://discord.gg/RVETNZD"><img align="left" height="230em" src="https://lanyard-profile-readme-artuu.vercel.app/api/402629234763235330?bg=23283D&borderRadius=8px&hideDiscrim=true" /></a>
+<a href="https://artuu.me/discord"><img align="left" height="230em" src="https://lanyard-profile-readme-artuu.vercel.app/api/402629234763235330?bg=23283D&borderRadius=8px&hideDiscrim=true" /></a>
   
 ## Hello world 👋
 
