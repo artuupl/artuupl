@@ -1,14 +1,42 @@
-<a href="https://artuu.me/discord"><img align="left" height="230em" src="https://lanyard.artuu.me/api/402629234763235330?bg=1e1e2e&borderRadius=8px&hidedDiscrim=true" /></a>
-  
-## Hello world 👋
+<h2 align="center">Hello world 👋 <br /> I'm <a href="https://arturkociszewski.pl/">Artur Kociszewski</a></h2>
+<p align="center">
+  <a href="https://arturkociszewski.pl/">Website</a> •
+  <a href="https://arturkociszewski.pl/blog">Blog</a> •
+  <a href="https://www.linkedin.com/in/artur-kociszewski/">LinkedIn</a>
+</p>
 
-I'm Artur Kociszewski, **teenager** and **amateur developer**.
+🎓 &nbsp;Student at WSB Merito University majoring in Marketing and Sales.
 
-&nbsp; 🎓 I am attending a technical school for advertising.
+💻 &nbsp;IT administrator at Hufiec ZHP Warszawa-Mokotów [@itwzhp](https://github.com/itwzhp).
+
+🤖 &nbsp; PHP, TypeScript and JavaScript Developer.
+
+🎶 &nbsp;Music enthusiast, concert and festival lover.
+
+🛹 &nbsp;Longboard rider and urban explorer.
+
+❤️ &nbsp;In love with Open Source.
+
+
+
+&nbsp;
+
+<details>
+  <summary><b>aboutMe.js</b></summary>
+  <br/>
   
-&nbsp; 💻 Programming is an interest of mine.
-  
-&nbsp; ❤️ I'm in love with Open Source.
+```aboutMe.js
+const xartuu = {
+  firstName: "Artur",
+  lastName: "Kociszewski",
+  age: 19,
+  gender: "male",
+  location: "Warsaw, Poland",
+  languages: ["Polish", "English"],
+  website: "https://arturkociszewski.pl"
+};
+```
+</details>
 
 # 
 
